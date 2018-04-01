@@ -1,0 +1,25 @@
+body {
+  font-family: Verdana;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+}
+
+.catchcopy {
+  font-size: 21px;
+  color: gray;
+}
+
+.applink {
+  color: Aquamarine;
+  font-size: 16px
+}
